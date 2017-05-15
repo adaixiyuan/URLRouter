@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.summary      = "A short description of URLRouter."
   s.homepage     = "https://github.com/adaixiyuan/URLRouter"
   s.license      = "MIT"
-  s.author       = { "adaixiyuan" => “adai" }
+  s.author       = { "adaixiyuan" => "1002391879@qq.com" }
   s.source       = { :git => "https://github.com/adaixiyuan/URLRouter.git", :tag => "#{s.version}" }
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
