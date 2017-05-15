@@ -12,10 +12,10 @@ Pod::Spec.new do |s|
   s.version      = “1.0.0”
   s.platform     = :ios, "8.0"
   s.summary      = "A short description of URLRouter."
-  s.homepage     = "http://192.168.30.6/ios_components/BFPageController"
+  s.homepage     = "https://github.com/adaixiyuan/URLRouter"
   s.license      = "MIT"
-  s.author       = { "quanyan" => "heng.luo@quncaotech.com" }
-  s.source       = { :git => "http://192.168.30.6/ios_components/BFPageController.git", :tag => "#{s.version}" }
+  s.author       = { "adaixiyuan" => “adai" }
+  s.source       = { :git => "https://github.com/adaixiyuan/URLRouter.git", :tag => "#{s.version}" }
   s.source_files  = "Classes", "Classes/**/*.{h,m}"
   s.exclude_files = "Classes/Exclude"
 
