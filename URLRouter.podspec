@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "URLRouter"
-  s.version      = “1.0.0”
+  s.version      = "1.0.0"
   s.platform     = :ios, "8.0"
   s.summary      = "A short description of URLRouter."
   s.homepage     = "https://github.com/adaixiyuan/URLRouter"
